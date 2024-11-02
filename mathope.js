@@ -1,10 +1,9 @@
-function add(n1,n2)
+function add(n1,n2,n3)
 {
-    return n1+n1
-}
+    return n1+n2+n3}
 export default add;
 
-export function mul(n1,n2)
+export function mul(n1,n2,n3)
 {
     return n1*n2
 }
